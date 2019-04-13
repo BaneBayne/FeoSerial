@@ -1,0 +1,41 @@
+D:\Проекты\Проекты на С#\Монитор порта\Монитор порта 1.1\Монитор порта 1.1\Монитор порта 1.1\bin\Debug\Монитор порта 1.1.exe.config
+D:\Проекты\Проекты на С#\Монитор порта\Монитор порта 1.1\Монитор порта 1.1\Монитор порта 1.1\bin\Debug\Монитор порта 1.1.exe
+D:\Проекты\Проекты на С#\Монитор порта\Монитор порта 1.1\Монитор порта 1.1\Монитор порта 1.1\bin\Debug\Монитор порта 1.1.pdb
+D:\Проекты\Проекты на С#\Монитор порта\Монитор порта 1.1\Монитор порта 1.1\Монитор порта 1.1\obj\Debug\Монитор порта 1.1.csprojAssemblyReference.cache
+D:\Проекты\Проекты на С#\Монитор порта\Монитор порта 1.1\Монитор порта 1.1\Монитор порта 1.1\obj\Debug\Монитор_порта_1._1.Form1.resources
+D:\Проекты\Проекты на С#\Монитор порта\Монитор порта 1.1\Монитор порта 1.1\Монитор порта 1.1\obj\Debug\Монитор_порта_1._1.Properties.Resources.resources
+D:\Проекты\Проекты на С#\Монитор порта\Монитор порта 1.1\Монитор порта 1.1\Монитор порта 1.1\obj\Debug\Монитор порта 1.1.csproj.GenerateResource.cache
+D:\Проекты\Проекты на С#\Монитор порта\Монитор порта 1.1\Монитор порта 1.1\Монитор порта 1.1\obj\Debug\Монитор порта 1.1.csproj.CoreCompileInputs.cache
+D:\Проекты\Проекты на С#\Монитор порта\Монитор порта 1.1\Монитор порта 1.1\Монитор порта 1.1\obj\Debug\Монитор порта 1.1.exe
+D:\Проекты\Проекты на С#\Монитор порта\Монитор порта 1.1\Монитор порта 1.1\Монитор порта 1.1\obj\Debug\Монитор порта 1.1.pdb
+D:\Проекты\Проекты на С#\Монитор порта\Монитор порта 1.1\Монитор порта 1.1\Монитор порта 1.1\obj\Debug\Монитор_порта_1._1.Form2.resources
+D:\Проекты\Проекты на С#\Монитор порта\Монитор порта 1.1\Монитор порта 1.1\Монитор порта 1.1\obj\Debug\Монитор_порта_1._1.AboutBox1.resources
+D:\Dubos\Downloads\Володе\Монитор порта 1.1\bin\Debug\Монитор порта 1.1.exe.config
+D:\Dubos\Downloads\Володе\Монитор порта 1.1\bin\Debug\Монитор порта 1.1.exe
+D:\Dubos\Downloads\Володе\Монитор порта 1.1\bin\Debug\Монитор порта 1.1.pdb
+D:\Dubos\Downloads\Володе\Монитор порта 1.1\obj\Debug\Монитор порта 1.1.csprojAssemblyReference.cache
+D:\Dubos\Downloads\Володе\Монитор порта 1.1\obj\Debug\Монитор_порта_1._1.AboutBox1.resources
+D:\Dubos\Downloads\Володе\Монитор порта 1.1\obj\Debug\Монитор_порта_1._1.Form1.resources
+D:\Dubos\Downloads\Володе\Монитор порта 1.1\obj\Debug\Монитор_порта_1._1.Form2.resources
+D:\Dubos\Downloads\Володе\Монитор порта 1.1\obj\Debug\Монитор_порта_1._1.Properties.Resources.resources
+D:\Dubos\Downloads\Володе\Монитор порта 1.1\obj\Debug\Монитор порта 1.1.csproj.GenerateResource.cache
+D:\Dubos\Downloads\Володе\Монитор порта 1.1\obj\Debug\Монитор порта 1.1.csproj.CoreCompileInputs.cache
+D:\Dubos\Downloads\Володе\Монитор порта 1.1\obj\Debug\Монитор порта 1.1.exe
+D:\Dubos\Downloads\Володе\Монитор порта 1.1\obj\Debug\Монитор порта 1.1.pdb
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\obj\Debug\Монитор порта 1.1.csprojAssemblyReference.cache
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\obj\Debug\Монитор_порта_1._1.AboutBox1.resources
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\obj\Debug\Монитор_порта_1._1.Form1.resources
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\obj\Debug\Монитор_порта_1._1.Properties.Resources.resources
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\obj\Debug\Монитор порта 1.1.csproj.GenerateResource.cache
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\obj\Debug\Монитор порта 1.1.csproj.CoreCompileInputs.cache
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\obj\Debug\Монитор_порта_1._1.Form2.resources
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\bin\Debug\Feo Serial.exe.config
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\bin\Debug\Feo Serial.exe
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\bin\Debug\Feo Serial.pdb
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\obj\Debug\Feo Serial.exe
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\obj\Debug\Feo Serial.pdb
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\bin\Debug\Feo Serial.exe.manifest
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\bin\Debug\Feo Serial.application
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\obj\Debug\Feo Serial.TrustInfo.xml
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\obj\Debug\Feo Serial.exe.manifest
+D:\CanSat\CanSat 2019\Володе\Монитор порта 1.1\obj\Debug\Feo Serial.application

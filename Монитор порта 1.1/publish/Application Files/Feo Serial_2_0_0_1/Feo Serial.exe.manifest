@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Feo Serial.exe" version="2.0.0.1" publicKeyToken="b14ff6e52ff98d6a" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="iconfinder-technologymachineelectronicdevice30-4026430_113312.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Feo Serial" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Feo Serial.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--Параметры манифеста UAC
+             Если вы хотите изменить уровень контроля учетных записей, замените узел 
+             requestedExecutionLevel на один из следующих.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            При указании элемента requestedExecutionLevel будет отключена виртуализация файлов и реестра. 
+            Удалите этот элемент, если виртуализация требуется приложению для обратной
+            совместимости.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Feo Serial.exe" size="340432">
+      <assemblyIdentity name="Feo Serial" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>mqjt4CW84hNP9of1w2UeEIrNLv66UVJfDcldPW6fa+I=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Feo Serial.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="iconfinder-technologymachineelectronicdevice30-4026430_113312.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>gZOCIdCH7brF58oEjg54dRU+g+p84fkbd/FwZivaXpU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TextFile1.txt" size="3">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Список версий Windows, на которых это приложение было протестировано
+ и будет           работать. Раскомментируйте соответствующие элементы, чтобы ОС Windows 
+           автоматически выбрала наиболее совместимое окружение. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=admin-pc\admin" issuerKeyHash="2842ff2d879e0d5a31ebf8c2d1a7cab9a28c9cc8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>7mvLNUcj4Z1y+NrDPebmsq6bdjHs8XxpcaGWdBxPJ/A=</DigestValue></Reference></SignedInfo><SignatureValue>v4qZ95xj3oLY6Muim4Staww5PiYuJWuhSZXdrZQKrxWCjZpuvgTqSPWchdQwy9MwiRKywdZM2LvHXW3w0yBnBMOprcHM6XrTpFAhsMeGTOU93xL68THqCWQK0PKW46hBzFQE4ecWkm8HCTbc2YCTquerJHhP4zD2SEb1fCeOGSg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>04CSt5wgrNpsOPMpSRy2z/eqblEa394LqUC/6UQeFl+h5m22zmCf8CR5zTLtLYVmYd8JCpG8cL/OWTv/fGyNJxyAxWTHFQNzMwR5cxSHxjI7Zpeo/LUAHOJCKGpSTk8t8aRKn+Z2NArmZdxSsKlu0jJBBys3Jr5AgmpVUlcUICk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f0274f1c7496a171697cf1ec31769baeb2e6e63dc3daf8729de1234735cb6bee" Description="" Url=""><as:assemblyIdentity name="Feo Serial.exe" version="2.0.0.1" publicKeyToken="b14ff6e52ff98d6a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=admin-pc\admin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>bNkauJeSNKhyrgqfjoVpB2PykSO1TXHVLIhyzOVLAA0=</DigestValue></Reference></SignedInfo><SignatureValue>DzhSXz7WHmJMBBHOrnmNVqwpQZ810qvnTOXHHLUrtgNxQlqLjK/9zgEqLWq9H4fuG0pkk3HB4c0g3AUwcK2cKrFh4VnJ5cU5SX0L9HM2HaxoqYwnRiL/xZ8z4ZYTpsXu0A2I5urjRvF4uGOs2gfZ5B0QCzlKDvDpIt8dVTnGLyA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>04CSt5wgrNpsOPMpSRy2z/eqblEa394LqUC/6UQeFl+h5m22zmCf8CR5zTLtLYVmYd8JCpG8cL/OWTv/fGyNJxyAxWTHFQNzMwR5cxSHxjI7Zpeo/LUAHOJCKGpSTk8t8aRKn+Z2NArmZdxSsKlu0jJBBys3Jr5AgmpVUlcUICk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQErrDEIdrx65D8Y2opA6eDzANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwAYQBkAG0AaQBuAC0AcABjAFwAYQBkAG0AaQBuMB4XDTE5MDIxNjE3MTU1MVoXDTIwMDIxNjIzMTU1MVowJzElMCMGA1UEAx4cAGEAZABtAGkAbgAtAHAAYwBcAGEAZABtAGkAbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA04CSt5wgrNpsOPMpSRy2z/eqblEa394LqUC/6UQeFl+h5m22zmCf8CR5zTLtLYVmYd8JCpG8cL/OWTv/fGyNJxyAxWTHFQNzMwR5cxSHxjI7Zpeo/LUAHOJCKGpSTk8t8aRKn+Z2NArmZdxSsKlu0jJBBys3Jr5AgmpVUlcUICkCAwEAATANBgkqhkiG9w0BAQsFAAOBgQCTMXxOhPsgyZf9i2qMUiEQzF/v8T7LCzkrDGB/D1kaPI4yRo9ERjaUlxxHJhXkwLWOUjhxIQ2FoSaXgAdaZmVR+AESPdXCqs5nfLBKj/eFQYjuWzhUsCkLnx2Bpn2zKRyPkMtGgTP4KFKk+3jqS1lQEmJVgtsbIa5pMBB1bgV6Nw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
